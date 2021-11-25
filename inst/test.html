@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function newalert(){
+            alert('hello world!');
+        }
+        function s(){
+            var b = document.querySelectorAll('button')[1];
+            for (; b < 9; b++) {
+                onclick=function(){EditBanner(b);};
+            }
+            
+             var passo;
+             for (passo = 0; passo < 5; passo++) {
+               console.log('Ande um passo para o leste');
+               document.querySelectorAll('button')[1].onclick();
+            //    document.querySelectorAll('button')[1].onclick();
+            }
+        }
+    </script>
+</head>
+<body>
+    <button onclick="s()">Test</button>
+    <button id="btn" onclick="newalert()">alert()</button>
+</body>
+</html>
