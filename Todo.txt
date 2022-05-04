@@ -1,0 +1,54 @@
+MATEMATICA
+probabilidade
+taxa
+Calcular Areas
+PI
+equacao do 1 grau
+equacao do 2 grau
+equacao do 3 grau
+equacao do 4 grau
+graficos exponenciais
+cubo magico(resolve)
+lunula de hipocrates
+read graphic(estimative)
+calc rotas do metro using list
+
+
+FISICA
+Efeito Doppler Relativístico
+
+GAMES
+cubo 3d tirar pecas(setas) eixo x,y,z 
+take care of the dinosaur, plant, alien
+baskete
+IronMan
+Montagem de carros
+figth robots
+
+SPORT
+muscles region for training
+
+HACK
+search all aconts in social media people
+IA scan face
+commands for hack
+mapeamento do usuario para anuncios
+busca binaria
+criptografia
+overload web
+derrubar site
+SQL inject
+
+BRAIN
+doencas mentais
+
+TXT
+Regex
+intelesence
+
+INSTA
+getUrl with login and pass
+write in dont pad
+criptograpy
+crate API(armazenar,enviar)
+pass to other site sandvalues
