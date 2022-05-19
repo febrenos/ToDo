@@ -17,7 +17,7 @@ calc rotas do metro using list
 FISICA
 Efeito Doppler Relativístico
 
-GAMES
+GAMES/DESIGN
 cubo 3d tirar pecas(setas) eixo x,y,z 
 take care of the dinosaur, plant, alien
 baskete
@@ -26,6 +26,7 @@ Montagem de carros
 figth robots
 alien
 drive aeronave to destin
+musica visual
 
 SPORT
 muscles region for training
