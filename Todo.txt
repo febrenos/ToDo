@@ -1,4 +1,5 @@
 MATEMATICA
+Power BI
 probabilidade
 taxa
 Calcular Areas
