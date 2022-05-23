@@ -52,6 +52,7 @@ doencas mentais
 TXT
 Regex
 intelesence
+requireds, verification date
 
 INSTA
 getUrl with login and pass
