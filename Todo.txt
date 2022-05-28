@@ -18,6 +18,7 @@ read graphic(estimative)
 calc rotas do metro using list
 algebra linear(rotacionar img com multiplicacao de matrizes)
 algoritmo de Dijkstra
+sen(cos((π))
 
 
 FISICA
