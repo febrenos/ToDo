@@ -16,6 +16,7 @@ cubo magico(resolve)
 lunula de hipocrates
 read graphic(estimative)
 calc rotas do metro using list
+algebra linear(rotacionar img com multiplicacao de matrizes)
 
 
 FISICA
