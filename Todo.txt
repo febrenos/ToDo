@@ -4,6 +4,7 @@ probabilidade
 taxa
 Calcular Areas
 PI
+sudoku
 matrizes
 fatorial
 equacao do 1 grau
