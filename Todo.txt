@@ -4,6 +4,8 @@ probabilidade
 taxa
 Calcular Areas
 PI
+matrizes
+fatorial
 equacao do 1 grau
 equacao do 2 grau
 equacao do 3 grau
