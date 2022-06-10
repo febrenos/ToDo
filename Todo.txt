@@ -67,3 +67,6 @@ write in dont pad
 criptograpy
 crate API(armazenar,enviar)
 pass to other site sandvalues
+unfollow
+show all stories
+comment in all stories
