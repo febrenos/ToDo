@@ -35,7 +35,7 @@ alien
 drive aeronave to destin
 musica visual
 escalar montanha, rapel
-planets, universits
+planets with clac, universits
 
 SPORT
 muscles region for training
@@ -56,8 +56,10 @@ SQL inject
 BRAIN
 doencas mentais
 
-TXT
+STRING
 Regex
+busca
+busca binaria
 intelesence
 requireds, verification date
 
