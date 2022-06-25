@@ -25,7 +25,10 @@ FISICA
 Efeito Doppler Relativístico
 
 GAMES/DESIGN
-cubo 3d tirar pecas(setas) eixo x,y,z 
+cubo 3d tirar pecas(setas) eixo x,y,z
+lavender town
+tretris
+guitar hero
 take care of the dinosaur, plant, alien
 baskete
 IronMan
