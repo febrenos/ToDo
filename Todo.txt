@@ -25,6 +25,7 @@ FISICA
 Efeito Doppler Relativístico
 
 GAMES/DESIGN
+pixel art
 cubo 3d tirar pecas(setas) eixo x,y,z
 lavender town
 tretris
