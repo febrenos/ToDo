@@ -1,1 +1,1 @@
-# Automatizae process
+# Automatizate process
