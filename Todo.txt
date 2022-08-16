@@ -5,6 +5,14 @@ ninja spirit
 metal slug 3
 
 MATEMATICA
+formula arranjo
+algebra linear
+valor absoluto
+desvio padrao
+dijkstra
+busca em profundidade
+busca em largura
+buesca binaria
 Power BI
 probabilidade
 taxa
