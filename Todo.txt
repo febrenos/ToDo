@@ -39,6 +39,7 @@ FISICA
 Efeito Doppler Relativístico
 
 GAMES/DESIGN
+jogo da velha
 pixel art
 cubo 3d tirar pecas(setas) eixo x,y,z
 jogo da cobra comendo maca
