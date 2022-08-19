@@ -39,6 +39,8 @@ FISICA
 Efeito Doppler Relativístico
 
 GAMES/DESIGN
+toonix
+cuide da planta
 sumo
 run(try herder, mario)
 jogo da velha
