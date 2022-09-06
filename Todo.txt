@@ -70,6 +70,7 @@ drive aeronave to destin
 musica visual
 escalar montanha, rapel
 planets with clac, universits
+filter: drop-sadow(8px, 8px, 4px, red);
 
 SPORT
 creatina
