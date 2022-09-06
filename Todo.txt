@@ -34,6 +34,16 @@ algebra linear(rotacionar img com multiplicacao de matrizes)
 algoritmo de Dijkstra
 sen(cos((π))
 
+- Algoritimos de ordenacao
+Selection Sort
+Insection Sort
+Buble Sort
+Merge Sort
+Heap Sort
+
+busca em largura(labirino)
+busca binaria
+
 
 FISICA
 Efeito Doppler Relativístico
