@@ -44,6 +44,12 @@ Heap Sort
 busca em largura(labirino)
 busca binaria
 
+-bugbounts
+euristica
+P=NP
+problema do corte bidimensional em grandes proporcoes
+ladrao roubar joias para a mochila' 
+
 
 FISICA
 Efeito Doppler Relativístico
