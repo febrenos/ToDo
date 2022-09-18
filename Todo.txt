@@ -7,6 +7,7 @@ panic parachute
 detector de aproximacao(navios)
 
 MATEMATICA
+einstein rosen bridges formula
 formula arranjo
 algebra linear
 valor absoluto
