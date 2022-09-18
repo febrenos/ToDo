@@ -1,4 +1,4 @@
 #### Projects
 - Games
-- Dropshipping
-- Investimentos (Analitics,Bot,Graphics,facebookAds)
+- Dropshipping (Graphics,facebookAds,D+1)
+- Investimentos (Analitics,Bot)
