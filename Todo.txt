@@ -67,7 +67,7 @@ pixel art
 cubo 3d tirar pecas(setas) eixo x,y,z
 jogo da cobra comendo maca
 lavender town
-baralho
+baralho(design cortina se abrindo)
 tretris
 guitar hero
 take care of the dinosaur, plant, alien
