@@ -5,6 +5,7 @@ ninja spirit
 metal slug 3
 panic parachute
 detector de aproximacao(navios)
+Megaloviana
 
 MATEMATICA
 einstein rosen bridges formula
