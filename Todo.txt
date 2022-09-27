@@ -8,6 +8,9 @@ detector de aproximacao(navios)
 Megaloviana
 
 MATEMATICA
+programacao dinamica(multiplicação de matrizes)
+Fibonacci
+Fibonacci recursiva
 einstein rosen bridges formula
 formula arranjo
 algebra linear
