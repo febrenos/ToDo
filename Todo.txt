@@ -84,6 +84,7 @@ musica visual
 escalar montanha, rapel
 planets with clac, universits
 cube 3d from 2d image
+calc drive Rocket to moon
 filter: drop-sadow(8px, 8px, 4px, red);
 
 SPORT
@@ -101,7 +102,7 @@ suplemento
 PMF Pico Máximo de Força
 FMI Força máxima isométrica
 
-HACK
+AUTOMATIZATION
 test password
 blaze action bot
 search all aconts in social media people
@@ -113,6 +114,7 @@ criptografia
 overload web
 derrubar site
 SQL inject
+picture face on security camera
 
 BRAIN
 doencas mentais
