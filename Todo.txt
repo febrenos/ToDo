@@ -1,4 +1,8 @@
 REFERENCE
+https://codepen.io/jh3y/pen/ExPVzBY
+https://jheytompkins.com/
+
+books(show items)
 meltal warriors
 ninja warriors
 ninja spirit
