@@ -62,6 +62,7 @@ FISICA
 Efeito Doppler Relativístico
 
 GAMES/DESIGN
+barco navegation
 toonix
 cuide da planta
 sumo
@@ -103,6 +104,7 @@ PMF Pico Máximo de Força
 FMI Força máxima isométrica
 
 AUTOMATIZATION
+site se molda em referencia as datas
 test password
 blaze action bot
 search all aconts in social media people
