@@ -1,4 +1,4 @@
-REFERENCE
+#### REFERENCE
 https://codepen.io/jh3y/pen/ExPVzBY
 https://jheytompkins.com/
 https://codepen.io/jh3y/pen/LYpNyvm
@@ -12,7 +12,8 @@ panic parachute
 detector de aproximacao(navios)
 Megaloviana
 
-MATEMATICA
+#### MATEMATICA
+calcular expressoes matematicas com Regex
 programacao dinamica(multiplicação de matrizes)
 Fibonacci
 Fibonacci recursiva
@@ -46,7 +47,10 @@ algebra linear(rotacionar img com multiplicacao de matrizes)
 algoritmo de Dijkstra
 sen(cos((π))
 
-- Algoritimos de ordenacao
+#### FISICA
+Efeito Doppler Relativístico
+
+#### Algoritimos de ordenacao
 Selection Sort
 Insection Sort
 Buble Sort
@@ -56,15 +60,11 @@ Heap Sort
 busca em largura(labirino)
 busca binaria
 
--bugbounts
+#### bugbounts
 euristica
 P=NP
 problema do corte bidimensional em grandes proporcoes
 ladrao roubar joias para a mochila' 
-
-
-FISICA
-Efeito Doppler Relativístico
 
 GAMES/DESIGN
 barco navegation
