@@ -3,6 +3,11 @@
 - https://jheytompkins.com/
 - https://codepen.io/jh3y/pen/LYpNyvm
 
+#### money
+- wordpress (5h create an site and cell by 1k)
+- investimentos(plr)
+- dropship
+
 - books(show items)
 - meltal warriors
 - ninja warriors
