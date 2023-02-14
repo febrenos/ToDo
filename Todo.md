@@ -151,5 +151,6 @@
 
 
 #### USUALS
+- widgets noticias (same windows but with lateral bar for information when click)
 - bank account
 - shopping 
