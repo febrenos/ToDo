@@ -2,6 +2,7 @@
 - https://codepen.io/jh3y/pen/ExPVzBY
 - https://jheytompkins.com/
 - https://codepen.io/jh3y/pen/LYpNyvm
+- https://devsnap.me/css-animated-backgrounds
 
 #### money
 - wordpress (5h create an site and cell by 1k)
