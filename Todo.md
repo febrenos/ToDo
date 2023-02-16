@@ -74,6 +74,8 @@
 - ladrao roubar joias para a mochila
 
 #### GAMES/DESIGN
+- skytStars css (finnd shooting star)
+- background color animation
 - barco navegation 2d
 - toonix
 - cuide da planta
