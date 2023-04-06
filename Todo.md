@@ -75,6 +75,7 @@
 - ladrao roubar joias para a mochila
 
 #### GAMES/DESIGN
+- graphic generator by an file with previsons
 - skytStars css (finnd shooting star)
 - background color animation
 - barco navegation 2d
