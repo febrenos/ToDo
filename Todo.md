@@ -3,6 +3,8 @@
 - https://jheytompkins.com/
 - https://codepen.io/jh3y/pen/LYpNyvm
 - https://devsnap.me/css-animated-backgrounds
+- thunderPallet: https://www.georgeandjonathan.com/#2
+- three.js: https://threejs.org/
 
 #### money
 - wordpress (5h create an site and cell by 1k)
