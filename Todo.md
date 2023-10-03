@@ -122,6 +122,7 @@
 - FMI Força máxima isométrica
 
 #### AUTOMATIZATION
+- site qua avalia outros sites, performance, melhorias, boas práticas
 - site se molda em referencia as datas
 - test password
 - blaze action bot
