@@ -77,6 +77,7 @@
 - ladrao roubar joias para a mochila
 
 #### GAMES/DESIGN
+- futuristic web site with orange, with and shadows in css  
 - graphic generator by an file with previsons
 - skytStars css (finnd shooting star)
 - background color animation
