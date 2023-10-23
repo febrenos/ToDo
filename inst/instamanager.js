@@ -3,6 +3,15 @@
 const lenUnfollowers = document.querySelectorAll('.row span:first-child').length;
 const users = []
 
+function openNewWindowUsersInstagram(listUsers) {
+    listUsers.forEach(user => {
+        const userIdWithoutAt = user.userId.replace('@', ''); // Remove o @
+        setTimeout(() => {
+            window.open(`https://www.instagram.com/${userIdWithoutAt}`, '_blank');
+        }, 3000);
+    });
+}
+
 var c = 0;
 while(c < lenUnfollowers){
 	const userId = document.querySelectorAll('.row span span:first-child')[c].textContent;
@@ -23,3 +32,23 @@ function filterUser(name) {
     }
     return filtedP;
 }
+
+const User = "fe.brenos"
+const senha = "test"
+const accessToken = 'SEU_ACCESS_TOKEN';
+const username = 'NOME_DE_USUARIO';
+
+fetch(`https://graph.instagram.com/v12.0/${username}?fields=id&access_token=${accessToken}`)
+  .then(response => response.json())
+  .then(data => {
+    const profileId = data.id;
+    console.log(`O ID de perfil para ${username} é: ${profileId}`);
+  })
+  .catch(error => {
+    console.error('Erro ao obter ID de perfil:', error);
+  });
+
+//ctrl + u 
+//"profile_id":"
+//profilePage_ 
+//page_id
