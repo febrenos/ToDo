@@ -10,7 +10,7 @@
 - wordpress (5h create an site and cell by 1k)
 - investimentos(plr)
 - dropship
-- 
+
 #### Games
 - books(show items)
 - meltal warriors
@@ -106,6 +106,7 @@
 - cube 3d from 2d image
 - calc drive Rocket to moon
 - filter: drop-sadow(8px, 8px, 4px, red);
+- exterminator (2d game, kill monsters form others planet, level inside one planet)
 
 #### SPORT
 - menu with blur
@@ -162,4 +163,5 @@
 #### USUALS
 - widgets noticias (same windows but with lateral bar for information when click)
 - bank account
-- shopping 
+- shopping
+- dropship manager (remover marca dágua de videos, editar, buscar na web sem marca dágua )
