@@ -33,7 +33,9 @@
 - algebra linear
 - valor absoluto
 - desvio padrao
-- dijkstra
+- algoritimos de grafos: dijkstra
+- algoritimos de grafos: breadth first
+- algoritimos de grafos: depth First
 - busca em profundidade
 - busca em largura
 - buesca binaria
