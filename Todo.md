@@ -114,6 +114,13 @@
 - Alien Hunter: Planetary Assault
 
 #### SPORT
+- fit victory
+  - Treino de resistência
+  - Treino de hipertrofia
+  - Treino de força
+  - calistenia
+  - musculação
+  - tipos de exercícios
 - menu with blur
 - creatina
 - way protein
