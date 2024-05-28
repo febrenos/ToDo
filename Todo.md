@@ -5,6 +5,10 @@
 - https://devsnap.me/css-animated-backgrounds
 - thunderPallet: https://www.georgeandjonathan.com/#2
 - three.js: https://threejs.org/
+- https://unseen-music.com/yume/
+
+#### Music
+- criar um mixer de musica e colocar a musica de fundo https://unseen-music.com/yume/
 
 #### money
 - saas
