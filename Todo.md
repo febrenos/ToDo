@@ -74,7 +74,7 @@
 - Merge Sort
 - Heap Sort
 - busca binaria
-
+- análise de curriculo vs vaga e o que pode melhorar
 - busca em largura(labirino)
 
 
