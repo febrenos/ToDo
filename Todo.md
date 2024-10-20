@@ -10,6 +10,12 @@
 #### Music
 - criar um mixer de musica e colocar a musica de fundo https://unseen-music.com/yume/
 
+##### Transporte
+- criar um projeto de transporte que usa a api do sptrans para localizar o onibus em tempo real
+
+#### Smart Watch
+- monitorar o quanto você está com sono
+
 #### money
 - saas
 - wordpress (5h create an site and cell by 1k)
